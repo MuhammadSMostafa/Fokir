@@ -537,7 +537,7 @@ ul{
 }
 .blog .items .item .item-img iframe{
     width: 100%;
-    height: 200.837px;
+    aspect-ratio: 6 / 3.37;
 }
 .blog .items .item .item-text{
     padding: 20px;
