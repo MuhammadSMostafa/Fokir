@@ -18,9 +18,6 @@ h2{
 a{
     text-decoration: none;
 }
-body{
-min-width: 991px;
-}
 .home-container{
     background-image: url(../Images/hero\ img.jpg);
     background-position: center;
